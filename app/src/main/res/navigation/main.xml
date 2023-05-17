@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/menuHome">
+
+
+    <fragment
+        android:id="@+id/menuHome"
+        android:name="com.example.xtypee.HomeFragment"
+        android:label="X-Type"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/menuBuscar"
+        android:name="com.example.xtypee.BuscarFragment"
+        android:label="Buscar"
+        tools:layout="@layout/fragment_buscar" />
+    <fragment
+        android:id="@+id/menuNos"
+        android:name="com.example.xtypee.ConocenosFragment"
+        android:label="Acerca de Nosotros"
+        tools:layout="@layout/fragment_conocenos" />
+    <fragment
+        android:id="@+id/menuForo"
+        android:name="com.example.xtypee.ForoFragment"
+        android:label="Foro"
+        tools:layout="@layout/fragment_foro" />
+    <fragment
+        android:id="@+id/menuInmuebles"
+        android:name="com.example.xtypee.InmueblesFragment"
+        android:label="Inmuebles"
+        tools:layout="@layout/fragment_inmuebles" />
+    <fragment
+        android:id="@+id/menuOfertar"
+        android:name="com.example.xtypee.OfertarFragment"
+        android:label="Ofertar"
+        tools:layout="@layout/fragment_ofertar" />
+    <fragment
+        android:id="@+id/menuPerfil"
+        android:name="com.example.xtypee.PerfilFragment"
+        android:label="Perfil"
+        tools:layout="@layout/fragment_perfil" />
+</navigation>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">X-Type</string>
+    <string name="menuHome">Home</string>
+    <string name="menuInmuebles">Inmuebles</string>
+    <string name="menuBuscar">Buscar</string>
+    <string name="menuForo">Foro</string>
+    <string name="menuOfertar">Ofertar</string>
+    <string name="menuOtros">Otros</string>
+    <string name="menuPerfil">Mi Perfil</string>
+    <string name="menuSalir">Salir</string>
+    <string name="menuNos">Acerca de Nosotros</string>
+    <string name="label1">Contraseña</string>
+    <string name="inputPass">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="label3">Usuario</string>
+    <string name="topText">¡Bienvenido!</string>
+    <string name="topText1">¿Ya tienes una cuenta?</string>
+    <string name="textNewUsu">NOSOTROS TE VAMOS A AYUDAR EN TU NUEVO COMIENZO</string>
+    <string name="label5">Registrarse</string>
+    <string name="text777">¿No tienes cuenta? ¡Registrate aqui!</string>
+    <string name="textForgot">¡Bienvenido de nuevo a tu aplicacion!</string>
+    <string name="boton1">Recuperar contraseña</string>
+    <string name="actDT">Date/Time</string>
+    <string name="textLogin">¡Ingresa desde tu cuenta!</string>
+
+    <string name="hi">¡Hola!</string>
+    <string name="hi1">¡Bienvenido de nuevo!</string>
+
+    <string name="boton2">Login</string>
+
+    <string name="usuario_label">Usuario</string>
+    <string name="password_label">Password</string>
+    <string name="olvcontraseña">Recuperar contraseña</string>
+    <string name="login">Iniciar sesion</string>
+    <string name="registro">¡Registrame!</string>
+    <string name="email">Email</string>
+    <string name="HoJ">¿Prefiere la horchata o la jamaica?</string>
+    <string name="h">Horchata</string>
+    <string name="j">Jamaica</string>
+    <string name="Ninguna">Ninguna</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="genero">Genero:</string>
+    <string name="fec_nac">Fecha de nacimiento</string>
+    <string name="in">Número celular</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="region">Región</string>
+    <string name="name">Nombre</string>
+    <string name="pick">Buscar fecha</string>
+    <string name="w">Welcome to the jungle</string>
+    <string name="inicio_sesion">Iniciar sesion</string>
+    <string name="aja">Vacio</string>
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="menu">Menú</string>
+    <string name="Recuperar">Recuperar</string>
+    <string name="agregar">Agregar contraseña</string>
+    <string name="cs">Cerrar Sesión</string>
+
+    <!--Mios-->
+
+    <string name="salu">Hola,</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

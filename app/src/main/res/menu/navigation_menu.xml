@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#C0D7EC">
+    <item
+        android:id="@+id/menuHome"
+        android:icon="@drawable/home"
+        android:title="@string/menuHome"
+        />
+    <item
+        android:id="@+id/menuInmuebles"
+        android:icon="@drawable/inmuebles"
+        android:title="@string/menuInmuebles"
+        />
+    <item
+        android:id="@+id/menuBuscar"
+        android:icon="@drawable/busca"
+        android:title="@string/menuBuscar"
+        />
+    <item
+        android:id="@+id/menuForo"
+        android:icon="@drawable/foro"
+        android:title="@string/menuForo"
+        />
+    <item
+        android:id="@+id/menuOfertar"
+        android:icon="@drawable/ofertar"
+        android:title="@string/menuOfertar"
+        />
+    <item android:title="@string/menuOtros">
+
+        <menu>
+
+            <item
+                android:id="@+id/menuPerfil"
+                android:icon="@drawable/perfil"
+                android:title="@string/menuPerfil"
+                />
+            <item
+                android:id="@+id/menuNos"
+                android:icon="@drawable/conocenos"
+                android:title="@string/menuNos"
+                />
+            <item
+                android:id="@+id/menuSalir"
+                android:icon="@drawable/salir"
+                android:title="@string/menuSalir"
+                />
+
+        </menu>
+
+    </item>
+</menu>
